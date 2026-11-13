@@ -30,6 +30,24 @@ Imaginary users report:
 
 Left mouse button = log out.
 
+## Known bugs & feature requests
+
+### Bugs
+| # | Issue | Status |
+|---|-------|--------|
+| 1 | **Disk not found.** Axelle inserted the AmigaLife floppy, but it ended up in the wrong slot (VCR?). | Cannot reproduce, works on my Amiga |
+| 2 | **Avatar stuck at 1% rezzing.** | Works as intended |
+| 3 | **Teleport always declined.** Reason: out of Chip RAM. | Fix: buy more RAM |
+
+### Feature requests
+| # | Request | Status |
+|---|---------|--------|
+| 4 | **Mesh support.** Requires 4 MB Chip RAM and roughly 3 weeks per mesh. | Planned (2031) |
+| 5 | **Put AO in hood**, because someone managed it in SL. | Investigating |
+| 6 | **Increase draw distance to 3 meters.** | Won't fix, too ambitious |
+| 7 | **More shiny latex.** Requested by Tricky. Avatars must shine more, even though the Amiga only has 32 colors. | Copper team assigned |
+| 8 | **Drone NX-001 requests shiny.**<br>`] NX-001: ᶶᶽᶱ, ʱ ᶳᵝᶟᵋ ʸᶪᶲᵡᶪʶᶸ?! ʸᶪᶶ, gimp, you ᶿᶾᶴᶣ ᵠʶᵋᵅ ᶮᵠᶯᶭᶯˠ drone ᵞᵝᶣ'ʶ ᶪᵠᶣ no to ᶲᶶᶛᶴᶱᶞᶺᶾᵅ shiny~ ᶞᶝᶲᶣ ᶹᶫ to me, ᶱᶹᵋᶫʱᶭ, ᶧᶲʷʸ ᶩᶪ ᶱᶸ?`<br>*Translation: unit wants shiny too. Request queued.* | Queued |
+
 ## Run
 Copy `AmigaLife` to a disk or folder in WinUAE or FS-UAE (A500, Kickstart 1.3 or newer, PAL) and run it from the Shell.
 
